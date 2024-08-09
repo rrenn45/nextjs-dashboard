@@ -20,7 +20,7 @@ const links = [
     icon: DocumentDuplicateIcon,
   },
   { name: 'Customers', href: '/dashboard/customers', icon: UserGroupIcon },
-  {name: 'Work Orders', href: '/dashboard/workorders', icon: WrenchScrewdriverIcon}
+  {name: 'Work Orders', href: '/dashboard/work_orders', icon: WrenchScrewdriverIcon}
 ];
 
 export default function NavLinks() {
